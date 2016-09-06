@@ -1,0 +1,12 @@
+select {
+  margin-right: 1rem;
+  border: 1px solid #777;
+  padding: .5rem;
+  font-size: 1rem;
+  border-radius: .2rem;
+  outline: none;
+  background-color: #fff;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}

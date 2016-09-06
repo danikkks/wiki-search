@@ -1,0 +1,11 @@
+.card {
+  max-width: 40rem;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 2rem;
+  border-top: .1rem solid #eee;
+}
+
+.card:first-of-type {
+  margin-top: 2rem;
+}
